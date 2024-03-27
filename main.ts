@@ -1,8 +1,10 @@
-class ObjectOne {
-    name : string;
-}
-
 class ObjectTwo {
 
     age : number;
+}
+
+
+class ObjectThree {
+
+    weight : number
 }
