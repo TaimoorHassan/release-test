@@ -1,0 +1,3 @@
+class ObjectOne {
+    name : string;
+}
