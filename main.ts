@@ -5,4 +5,5 @@ class ObjectOne {
 class ObjectTwo {
 
     age : number;
+    email : string;
 }
